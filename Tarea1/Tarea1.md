@@ -1,0 +1,4 @@
+# Tarea 1
+
+
+la base de datos Brazilian E-Commerce Public Dataset by Olist contiene información de 100 mil pedidos realizados en múltiples mercados en Brasil desde 2016 hasta 2018. La base de datos se divide en varios conjuntos de datos para facilitar su comprensión y organización. Cada conjunto de datos representa una entidad diferente, como clientes, productos, pedidos, pagos o reseñas. Las relaciones entre las entidades se pueden describir mediante un esquema de datos que muestra las claves primarias y foráneas que conectan las tablas. El siguiente diagrama ilustra el esquema de datos de la base de datos:
