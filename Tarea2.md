@@ -1,6 +1,6 @@
 # Tarea 2
 
-Ah continuación se presenta gráfico entidad relación de la base de datos Brazilian ecommerce.
+A continuación se presenta gráfico entidad relación de la base de datos Brazilian ecommerce.
 <br>
 <br>
 
