@@ -52,7 +52,7 @@ Se utilizó la estructura de la información ya presentada en la base de datos s
 <br>
 
 
-![Diagrama](https://github.com/xDiegoCruz15/MCD-BDR/blob/master/Tarea3/Imagenes/Diagrama.png?raw=true)
+![Diagrama](https://github.com/xDiegoCruz15/MCD-BDR/blob/master/Tarea3/Imagenes/Diagrama.jpg?raw=true)
 
 <br>
 <br>
