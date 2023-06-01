@@ -22,4 +22,5 @@
 
 * [Tarea3](https://github.com/xDiegoCruz15/MCD-BDR/blob/master/Tarea3/Tarea3.md) Algebra Relacional y Diagrama Relacional
 
+* [Tarea4](https://github.com/xDiegoCruz15/MCD-BDR/blob/master/tarea4.sql) Creación de Tablas
 
