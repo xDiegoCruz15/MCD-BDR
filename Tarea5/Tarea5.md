@@ -5,7 +5,7 @@
 
 Se decido utilizar los datos ya exigentes dentro de la base de datos de e-commer, para ello se utilizo los datos originales en formato csv y se realizo la carga de los mismos en una base de datos de SQL, para ello se utilizaron las funciones de incorporadas dentro del software de DBeaver, para la carga de los datos.
 
-Dentro de la carpeta correspondiente a la tarea se encuentra el archivo de nombre **Tarea5.sql** el cual contiene el script de creación de la base de datos y la carga de los datos. 
+Dentro de la carpeta correspondiente a la tarea se encuentra el archivo de nombre [**Tarea5.sql**](https://github.com/xDiegoCruz15/MCD-BDR/blob/master/Tarea5/Tarea5.sql) el cual contiene el script de creación de la base de datos y la carga de los datos. 
 
 ## Reporte de Dificultades, hallazgos y recomendaciones.
 
