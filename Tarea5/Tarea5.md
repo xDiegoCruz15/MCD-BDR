@@ -20,6 +20,6 @@ Dentro de la carpeta correspondiente a la tarea se encuentra el archivo de nombr
 
 ## Auto Evaluación.
 
-Considerado mi trabajo realizado en las tareas previas asi como el realizado en la presente, creo que mi trabajo a sido correcto y que se cumple con los objetivos de la tarea, sin embargo considero que se puede mejorar, principalmente respecto a los conocimientos técnicos de SQL, ya que considero que no tengo un dominio completo de este lenguaje de programación, por lo que he recurrido a diferentes softwares o funciones para poder realizar las tareas evitando el uso de código puro en terminal, sin embargo considero que con la practica y el tiempo se puede mejorar en este aspecto.
+Considerado mi trabajo realizado en las tareas previas asi en la presente, a sido correcto y que se cumple con los objetivos asignados a cada tarea, sin embargo considero que se puede mejorar, principalmente respecto a los conocimientos técnicos de SQL, ya que creo que no tengo un dominio completo de este lenguaje de programación, por lo que he recurrido a diferentes softwares o funciones para poder realizar las tareas evitando el uso de código puro en terminal, sin embargo se que con practica y tiempo se puede mejorar en este aspecto.
 
 Por lo anterior considero que mi trabajo es de un 8.5/10.0
