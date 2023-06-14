@@ -1,6 +1,5 @@
 # Tarea 6
 
-
 <br>
 
 ## 1. ¿Cuántos productos tienen más de 100 ventas? (conteo)
