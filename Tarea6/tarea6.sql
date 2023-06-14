@@ -1,7 +1,6 @@
 -- Active: 1684464908367@@127.0.0.1@3306@e-commer
 
 
-
 -- Cuenta la cantidad de productos que se han vendido por lo menos 100 unidades (conteo)
 SELECT COUNT(*) AS numero_filas
 FROM (
