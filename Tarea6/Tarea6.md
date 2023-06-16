@@ -1,5 +1,6 @@
 # Tarea 6
 
+
 <br>
 
 ## 1. ¿Cuántos productos tienen más de 100 ventas? (conteo)
@@ -17,7 +18,7 @@ FROM (
 ```
 <br>
 
-## 2. ¿Cuál es el producto más vendido? (máximo)
+## 2. Mayor numero de ordenes efectuadas por un solo cliente (máximo)
 
 <br>
 
