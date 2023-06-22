@@ -26,3 +26,5 @@
 * [Tarea5](https://github.com/xDiegoCruz15/MCD-BDR/blob/master/Tarea5/Tarea5.md)  Carga de datos - Informe de Hallazgos y Dificultades
 
 * [Tarea6](https://github.com/xDiegoCruz15/MCD-BDR/blob/master/Tarea6/Tarea6.md) Funciones de básicas de SQL
+
+* [Tarea7](https://github.com/xDiegoCruz15/MCD-BDR/blob/master/Tarea7/Tarea7.md) Revision y Ajuste de la base de datos
