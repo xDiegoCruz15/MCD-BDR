@@ -1,7 +1,7 @@
 # Tarea 9
 
 
-## Correlacion de Pearson
+## Procedimiento correlacion de Pearson
 La correlación de Pearson es una medida estadística que evalúa la relación lineal entre dos variables continuas. Es una medida de la fuerza y la dirección de la asociación entre las dos variables. La correlación de Pearson toma valores en el rango de -1 a 1.
 
 
@@ -102,12 +102,17 @@ Cálculo del Coeficiente de Correlación: Se utiliza la fórmula del coeficiente
 
 
 
-## Calculo distancia de Levenshtein
+## Funcion distancia de Levenshtein
 
 La distancia de Levenshtein. La distancia de Levenshtein, también conocida como edición de distancia, es una métrica que mide la diferencia entre dos cadenas de texto. El valor retornado es el número mínimo de ediciones de un solo carácter (inserciones, eliminaciones o sustituciones) requeridas para cambiar una cadena en la otra.
 
+<br>
 
 
+![image](https://github.com/xDiegoCruz15/MCD-BDR/blob/master/Tarea9/Imagenes/DL.jpg?raw=true)
+
+
+<br>
 
 ```sql
 
