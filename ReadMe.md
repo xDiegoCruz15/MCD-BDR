@@ -32,3 +32,5 @@
 * [Tarea8](https://github.com/xDiegoCruz15/MCD-BDR/blob/master/Tarea8/Tarea%208.md) Triggers
   
 * [Tarea9](https://github.com/xDiegoCruz15/MCD-BDR/blob/master/Tarea9/Tarea%209.md) Funciones y Procedimientos Almacenados
+
+* [Tarea10](https://github.com/xDiegoCruz15/MCD-BDR/blob/master/Tarea10.ipynb) Consultas en Python 
